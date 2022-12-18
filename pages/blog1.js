@@ -9,7 +9,7 @@ const blog1 = () => {
                     Blog1
                 </title>
             </Head>
-            <h1>Blog1</h1>
+            <h1>Blog1 is created.</h1>
             <Link href='/blog'>Blog</Link>
         </div>
     );
